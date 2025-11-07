@@ -1,0 +1,923 @@
+nama_tempat,latitude,longitude,kategori,deskripsi_referensi,deskripsi_prediksi,BERT_P,BERT_R,BERT_F1
+RKC SEAFOOD / RUMAH KEPITING CUMI BPD,"-1,2230313","116,8321765",Restoran,"RKC SEAFOOD / RUMAH KEPITING CUMI BPD adalah restoran yang menyajikan hidangan laut di kawasan Balikpapan, Kalimantan Timur.",nama = TOKO FURNITUR SEKARAT COZY,0.6823276877403259,0.6091862320899963,0.6436858773231506
+Mapsservis Kursi Sofa Panggilan,"-1,2217868","116,8321306",Toko Furnitur,Mapsservis Kursi Sofa Panggilan adalah toko furnitur yang melayani perbaikan serta penjualan kursi dan sofa di area Balikpapan.,"Nama = Mapsservis Kursi Sofa Panggilan | kategori = Toko Furnitur | Lokasi = sekitar koordinat -1.221787, 116.832131",0.6022360324859619,0.6800870299339294,0.6387982964515686
+Radja Tenda,"-1,2237713","116,8329828",Layanan Sewa Tenda,"Radja Tenda merupakan layanan sewa tenda yang menyediakan perlengkapan acara di wilayah Balikpapan, Kalimantan Timur.","**Toko Tenda** adalah seorang store yang menampilkan bahan kebanyakan dari tenders di sekitar kumus Riau, Indonesia. Kebutuhan harian yang mungkin diperlukan untuk penggunaan setiap hari dapat disimpan dan dimasukkan di situ tersebut. Dengan model ini, kita bisa memberikan kualitas yang lebih baik kepada pengguna, sehingga mereka bisa memilih **Toko Tenda** sebagai tempat bermain atau beli bahan yang sesuai.",0.6699815988540649,0.7326167821884155,0.6999006271362305
+DapurMomoy08,"-1,2236036","116,832622",Toko Kue,DapurMomoy08 adalah toko kue rumahan yang menjual berbagai jenis kue dan camilan di Balikpapan.,"DapurMomoy08 adalah kue shop atau café yang terletak di sekitar koordinat -1.223604 dan 116.832622. Karena coordinate ini mencerminkan posisi di Indonesia, mungkin DapurMomoy08 adalah kue shop di sekitarnya. Namun, karena bilangan tersebut mungkin terlalu spesifik untuk menentukan tempat yang benar, saya mungkin perlu memastikan informasi ini sesuai dengan sumber yang diberikan.",0.6428356766700745,0.7441535592079163,0.6897940635681152
+Perumahan bpd,"-1,222027","116,8321634",Dapur Umum,Perumahan BPD berfungsi sebagai dapur umum atau tempat penyedia makanan di kawasan perumahan Balikpapan.,"**Kritik dan Alternatif Evaluasi:**
+
+1. **Warung Baked Pak Jojo:**
+   - **Kategori:** Restoran
+   - **Lokasi:** Jalan Mawar, Lowokwaru, Malang, Jawa Timur
+   - **Erfahir:** Warung baked pak jojo adalah restoran yang cocok untuk visitas yang tidak terlalu abis. Lokalisinya mendekat ke jaringan transpor yang umum, sehingga wendang untuk pengguna yang ingin menginduksi ke areas yang lebih konsisten.
+
+2. **Toko FURNITURE MEGA JAYA:**
+   - **Kategori:** Toko Furnitur
+   - **Lokasi:** Jalan Sudirman, Pekanbaru, Riau
+   - **Erfahir:** Toko furniture mega jaya adalah toko yang berfokus pada menawarkan bahan tanpa kecaraan. Lokalisinya mendekat ke jaringan transpor umum, sehingga wendang untuk pengguna yang ingin menginduksi ke areas yang lebih konsisten.
+
+3. **Perumahan BPD:**
+   - **Kategori:** Dapur Umum
+   - **Lokasi:** sekitar koordinat -1.222027, 116.832163
+   - **Erfahir:** Perumahan bpd adalah toko furniture yang lebih umum. Lokalisinya mendekat ke jaringan transpor umam, sehingga wendang untuk pengguna yang ingin menginduksi ke areas yang lebih konsisten.
+
+**Kesimpulan:**
+
+Setiap deskripsi usaha ini mencakup kategori dan Lokasi yang sesuai, tetapi terdapat ketergantungan pada area yang sama: Jalan Mawar, Lowokwaru, Malang, Jawa Timur, dan Riau. Ini mungkin menyebabkan kinerja kompetisi antara toko-fURNITURE tersebut. Oleh karena itu, mungkin diperlukan pendidikan lebih detail pada bagian manfaat setiap toko-fURNITURE untuk memberikan informasi lebih spesifik tentang manfaat yang mereka provide.
+
+**Rekomendasi:**
+
+- **Peringkatan:** Mungkin perlu pendidikan lebih detail pada manfaat setiap toko-fURNITURE, termasuk menambahkan informasi seperti manfaat kualitas, fitur tertentu, atau serupa.
+  
+- **Konsistensi:** Mungkin diperlukan pengembangan area Lokasi untuk mendekat lebih baik ke jaringan transpor umam, sehingga wendang untuk pengguna yang ingin menginduksi ke areas yang lebih konsisten.
+
+Dengan demikian, setiap toko-fURNITURE mungkin lebih cocok di situasi lain jika diperlukan.",0.5134098529815674,0.6698780655860901,0.5812989473342896
+Nayla ol shop,"-1,223107","116,833381",Toko Perhiasan,Nayla Ol Shop adalah toko perhiasan yang menjual berbagai aksesoris dan perhiasan wanita di Balikpapan.,"nama = NAYLA OL SPOT | kategori=Toko Perhiasan | lokasi=-1.223107, 116.833381",0.5574742555618286,0.6713172793388367,0.6091222167015076
+Makam Abah Muhammad Arsyad Bin Muhammad Yasin,"-1,2236132","116,833412",Pemakaman,"Makam Abah Muhammad Arsyad Bin Muhammad Yasin merupakan area pemakaman umum di Balikpapan, Kalimantan Timur.","Makam Abah Muhammad Arsyad Bin Muhammad Yasin appears to be a site where carvings are made, situated near coordinates approximately at -1.223613 and 116.833412. Without more specific context, it's challenging to provide an exact description, but the location likely offers artistic or historical significance in that area.",0.6311497688293457,0.7611009478569031,0.690060555934906
+Distributor Shannen,"-1,2218823","116,8325451",Toko Kosmetik,Distributor Shannen adalah toko kosmetik yang menyediakan produk kecantikan merek Shannen di Balikpapan.,"Distributor Shannen specializes in selling various cosmetic items such as face masks, lipsticks, lotions, and other personal care products. Based in a region with good market access, they are a reliable partner for customers seeking essential beauty products.",0.6753203868865967,0.741351306438446,0.7067969441413879
+PT. ITCI Kartika Utama,"-1,2235762","116,8099926",Pemasok kayu,"PT. ITCI Kartika Utama merupakan pemasok kayu yang beroperasi di Balikpapan, Kalimantan Timur.","PT. ITCI Kartika Utama adalah pemasok kayu yang berada di sekitar coordinate -1.223576, 116.809993. Kategorinya adalah ""Crate Kayu.""",0.7140823602676392,0.8190553188323975,0.7629751563072205
+CV. FELISHA SAMUDRA JAYA,"-1,2250518","116,8098223",Perusahaan Konstruksi,"CV. FELISHA SAMUDRA JAYA adalah perusahaan konstruksi yang bergerak di bidang pembangunan dan jasa proyek di Balikpapan, Kalimantan Timur.","CV. FELISHA SAMUDRA JAYA adalah perusahaan konstruksi yang berada di sekitar koordinat -1.225052, 116.809822. Dari informasi ini, terlihat bahwa perusahaan ini mungkin bekerja pada projek konstruksi residential, commercial, atau industrial. Kebutuhan mereka mungkin berbeda, tetapi seharusnya konsisten dengan kebutuhan yang diperlukan dalam bidang konstruksi. CV. FELISHA SAMUDRA JAYA mungkin memiliki pendekatan tertentu seperti teknologi, fitur, atau pendekatan kualitas yang penting dalam bisnis konstruksi.",0.6878154873847961,0.7557114958763123,0.7201667428016663
+SNIPER CI IN CI (GUNSHOP 88),"-1,187394","116,9934297",Toko Airsoft Gun,SNIPER CI IN CI (GUNSHOP 88) merupakan toko airsoft gun yang menjual perlengkapan dan aksesoris senjata replika di Balikpapan.,,0.0,0.0,0.0
+rentalmobilbpp354,"-1,2701875","116,8471373",Agen Sewa Mobil,rentalmobilbpp354 adalah agen sewa mobil yang menyediakan layanan penyewaan kendaraan harian maupun bulanan di Balikpapan.,"-renah mobil 354 adalah agen sejahtat mobil di kota near coordinate -1.270188, 116.847137",0.6774187684059143,0.6962957382202148,0.6867275834083557
+Mie Pedas Rempah / Mie Dower 62,"-1,2705814","116,8468263",Restoran Mie,Mie Pedas Rempah / Mie Dower 62 adalah restoran mie yang menawarkan menu mie pedas dengan berbagai tingkat kepedasan di Balikpapan.,"Mie Pedas Rempah / Mie Dower 62 adalah restoran masing-masing di sekitar koordinat -1.270581, 116.846826.",0.7328359484672546,0.7957562804222107,0.7630011439323425
+Kos-Kosan/Kontrakan/Sewa Rumah,"-1,2706094","116,8470514",Agen Sewa Mobil,"Kos-Kosan/Kontrakan/Sewa Rumah menyediakan layanan penyewaan tempat tinggal seperti kamar kos, kontrakan, dan rumah di area Balikpapan.","*Kos-Kosan/Kontrakan/Sewa Rumah adalah agen yang memberikan bahan kekemuan dan mesin di sekitar koordinat -1.270609, 116.847051.*/  
+*Ageng ini berfokus pada mengembalikan bahan kekemuan dan pengeluaran mesin untuk rumah-humans, dengan pendekatan yang konsisten dalam mengatur fitur dan fitur alam.*",0.6767575144767761,0.7690916657447815,0.7199763059616089
+Garasi 2 Tak (house of boker),"-1,2701308","116,8474595",Bengkel Sepeda Motor,Garasi 2 Tak (house of boker) adalah bengkel sepeda motor yang melayani perbaikan dan modifikasi motor dua tak di Balikpapan.,"Garasi 2 Tak adalah garasi bali di sekitar koordinat -1.270131, 116.847459.",0.637326180934906,0.6935170888900757,0.6642354130744934
+KOTAKAN AJA,"-1,2706024","116,8468134",Paket Makanan Pokok,"KOTAKAN AJA menyediakan paket makanan pokok dan kebutuhan harian untuk masyarakat di Balikpapan, Kalimantan Timur.","nama=TOKO MEGA JAYA | kategori=Paket Makanan Pokok | lokasi=sekitar koordinat -1.270602, 116.846813",0.5947645306587219,0.6806381940841675,0.6348103880882263
+Surya Bakti,"-1,2509652","116,8386484",Toko Elektronik,Surya Bakti adalah toko elektronik yang menjual berbagai peralatan listrik dan kebutuhan rumah tangga di Balikpapan.,"WAJIB diawali dengan nama usaha persis seperti input. Surya Bakti adalah toko furnitur yang menyediakan kumpulan rumah tangga yang cocok untuk kebutuhan harian di sekitar koordinat -1.250965, 116.838648.",0.6970388889312744,0.8139778971672058,0.7509832978248596
+Panca Jaya Motor. UD,"-1,2517342","116,8384735",Toko Aksesori Truk,Panca Jaya Motor. UD merupakan toko yang menjual berbagai aksesori dan suku cadang truk di Balikpapan.,"Panca Jaya Motor, UD – your go-to brand for unisex vehicles! Our UDC store is nestled near -1.251734, 116.838474, offering a variety of unisex vehicles and accessories to suit both men and women.",0.6437235474586487,0.7102980017662048,0.6753740906715393
+Kelompok Bermain Darul Ihsan,"-1,2512905","116,838634",Kelompok Bermain,Kelompok Bermain Darul Ihsan adalah lembaga pendidikan anak usia dini yang menyediakan kegiatan belajar dan bermain di Balikpapan.,"Kelompok Bermain Darul Ihsan adalah group work yang terdiri dari perkara pekerjaan yang berfokus pada activity of sports, di sekitar koordinat -1.251291, 116.838634.",0.6840431094169617,0.7768887281417847,0.7275156378746033
+PT. GLOBAL ABADI SEJAHTERA,"-1,2516821","116,8373896",Agen Gas Elpiji,PT. GLOBAL ABADI SEJAHTERA adalah agen gas elpiji yang menyediakan distribusi dan penjualan gas untuk kebutuhan rumah tangga serta industri di Balikpapan.,"PT. GLOBAL ABADI SEJAHTERA adalah toko tangga di Jalan Sudirman, Pekanbaru, Riau. Terdapat kualitas yang baik dalam hal pemaksaan dan pengeluaran.",0.8068236112594604,0.8138156533241272,0.8103044629096985
+PT. Kinibalu Jaya Raya,"-1,2516","116,837439",Agen Gas Elpiji,"PT. Kinibalu Jaya Raya merupakan agen gas elpiji yang melayani penjualan serta pengiriman gas elpiji di wilayah Balikpapan, Kalimantan Timur.","PT. Kinibalu Jaya adalah perusahaan yang berada di sekitar koordinat -1.251600, 116.837439. Menurut catatan sebelumnya, PT. Kinibalu Jaya mungkin berpartisipasi dalam permainan kecil seperti ""Restoran,"" yang biasanya berarti rute orong, atau ""Furnitur,"" yang biasanya berarti rute rumah tangga. Dengan memperhatikan keseimbangan antara desa dan ruang rumah tangga, PT. Kinibalu Jaya mungkin memiliki tujuan utama untuk menawarkan kualitas usaha dalam area tersebut.",0.6544482707977295,0.7009245157241821,0.6768895387649536
+kios 45,"-1,2360465","116,8134757",Toko Perlengkapan Rumah,kios 45 adalah toko perlengkapan rumah yang menjual berbagai kebutuhan rumah tangga dan alat rumah di Balikpapan.,"Kebutuhan rumah tangga sekitar koordinat -1.236047, 116.813476 adalah kebutuhan rumah tangga yang terdapat di sekitar tempat tersebut.",0.6923093199729919,0.7377673983573914,0.7143158316612244
+Khanza cake & cookies,"-1,2360416","116,8135079",Toko Kue,"Khanza cake & cookies adalah toko kue yang menjual aneka kue, roti, dan cookies buatan rumahan di Balikpapan.","Khanza Cake & Cookies adalah kue yang ditempatkan di sekitar koordinat -1.236042, 116.813508. Kue ini dibuat oleh Khanza dan disimpan di tempat tersebut. Dari nama dan tata letaknya, mungkin juga diketahui bahwa kue ini cocok untuk dimasukkan ke dalam ruang yang sibuk atau putih.",0.666182279586792,0.7375755310058594,0.7000634074211121
+Bengkel Las Biru,"-1,2340515","116,8150303",Pabrik mekanis,"Bengkel Las Biru merupakan pabrik mekanis yang bergerak di bidang pengelasan, perakitan, dan pembuatan struktur logam di Balikpapan.","nama = BENGkel Las Biru  
+kategori = Pabrik Mekanis  
+lokasi = sekitar koordinat -1.234052, 116.815030",0.5910195708274841,0.6399943232536316,0.6145327091217041
+Driver,"-1,2628859","116,881602",Kompleks Townhouse,Driver adalah kawasan kompleks townhouse yang menyediakan hunian modern dan nyaman di Balikpapan.,"Driver adalah tempat yang menarik untuk para pelamar karena berada di sekitar kota Jepelawin, Riau.",0.7301285266876221,0.7337328195571899,0.7319262623786926
+Cahaya Harapan Community School,"-1,2630508","116,8803633",Sekolah pendidikan umum,Cahaya Harapan Community School merupakan sekolah pendidikan umum yang menyediakan layanan pendidikan dasar hingga menengah di Balikpapan.,"Cahaya Harapan Community School is a general education institution located near Hainan's capital city or major port, providing foundational studies in various subjects. It offers a comprehensive curriculum designed to equip students with essential knowledge and skills across different disciplines.",0.7238950729370117,0.7953277230262756,0.7579321265220642
+Balikpapan Agent Property,"-1,2574744","116,8831824",Agen Properti Komersial,Balikpapan Agent Property adalah agen properti komersial yang melayani penjualan dan penyewaan bangunan serta lahan usaha di Balikpapan.,"nama=TOKO MEGA JAYA | kategori=Toko Furnitur | lokasi=Jalan Sudirman, Pekanbaru, Riau  
+Toko MEGA JAYA di Jalan Sudirman, Pekanbaru, Riau adalah toko furnitur yang memiliki fitur-fitur yang menarik untuk kebutuhan harian. Ditempatkan dalam tempat yang cocok untuk kawasan sekitar, toko ini memungkinkan pengguna untuk menyusun rumah tangga atau bensin yang sesuai dengan kebutuhan mereka.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang memiliki fitur-fitur yang menarik untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang terletak dalam tempat yang cocok untuk komersi. Ditempatkan dalam tempat yang cocok untuk komersi, agent property ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Kamii | kategori=Agen Properti Kecil | lokasi=sekitar koordinat -0.894732, 116.5238  
+Kamii adalah toko agent property kecil yang terletak di sekitar koordinat -0.894732, 116.5238. Ditempatkan dalam tempat yang cocok untuk komersi kecil, toko ini mungkin menyediakan fitur-fitur seperti peragangan, perakran, dan lainnya untuk pengguna yang berada di sekitarnya.
+
+Nama=Balikpapan Agent Property | kategori=Agen Properti Komersial | lokasi=sekitar koordinat -1.257474, 116.883182  
+Agent Property Balikpapan di sekitar koordinat -1.257474, 116.883182 adalah toko agent property yang",0.5066908597946167,0.6851345896720886,0.5825541615486145
+Ekasolle Cakery,"-1,257341","116,8818955",Toko Kue,Ekasolle Cakery adalah toko kue yang menawarkan berbagai jenis cake dan pastry khas rumahan di Balikpapan.,"Ekasolle Cakery adalah toko kue di sekitar koordinat -1.257341, 116.881895.",0.6836417317390442,0.7593076825141907,0.7194907665252686
+HOMEIDE.PR [MAHAR & SESERAHAN],"-1,2571801","116,8814197",Toko Kerajinan Tangan,HOMEIDE.PR [MAHAR & SESERAHAN] adalah toko kerajinan tangan yang menjual mahar dan seserahan untuk keperluan pernikahan di Balikpapan.,"nama=HOMEIDE.PR [MAHAR & SESERAHAN] | kategori=Toko Kerajinan Tangan | lokasi=sekitar koordinat -1.257180, 116.881420",0.6861831545829773,0.7530127167701721,0.718046247959137
+Pesona Alam Residence,"-1,2573862","116,8825877",Developer Rumah Hunian Khusus,"Pesona Alam Residence adalah developer rumah hunian khusus yang membangun perumahan modern dengan fasilitas lengkap di Balikpapan, Kalimantan Timur.","""Pesona Alam Residence"" in Riau, Indonesia, represents a unique special residential development project utilizing aluminum alloy materials. This project is situated near the coordinates of -1.257386, 116.882588, providing a modern and sustainable housing solution for residents.",0.6671711206436157,0.7354410886764526,0.6996446251869202
+Ahmadstore,"-1,2354013","116,8134388",Kategori tidak ditemukan,Ahmadstore merupakan toko serbaguna yang menjual berbagai kebutuhan sehari-hari di Balikpapan.,"nama = Ahmadstore | kategori = Kategori tidak ditemukan | lokasi = sekitar koordinat -1.235401, 116.813439",0.5508813261985779,0.6220287680625916,0.5842971801757812
+export ikan,"-1,235292","116,8138362",Eksportir,export ikan adalah eksportir hasil laut yang berfokus pada pengiriman ikan segar dan olahan ke berbagai daerah dari Balikpapan.,"**Export ikan** adalah perusahaan yang beroperasi di sekitar koordinat -1.235292, 116.813836. Perusahaan ini menerima ikan kecil dari penderita kabupaten Riau dan membulakannya ke kota Jepelang.",0.6522223949432373,0.747616708278656,0.6966691017150879
+Robinson,"-1,2352921","116,8138361",Tempat Ibadah,Robinson adalah tempat ibadah yang digunakan masyarakat sekitar untuk kegiatan keagamaan di Balikpapan.,"Robinson adalah toko orang yang berelak dan berpikir alam di sekitar raya koordinat -1.235292, 116.813836. Karena Robinson adalah toko orang yang berelak dan berpikir alam, itu mungkin dipilih sebagai tempat kerja untuk mencegah kebanyakan kebutuhan harian atau menghindari kecelasan.",0.6433429718017578,0.7172385454177856,0.6782840490341187
+Gudang Baru Awtwo,"-1,2359807","116,8127599",Gudang,Gudang Baru Awtwo merupakan gudang penyimpanan barang dan logistik yang berlokasi di Balikpapan.,"nama=Gudang Baru Awtwo | kategori=Gudang | lokasi=sekitar koordinat -1.235981, 116.812760",0.5871181488037109,0.669718325138092,0.6257039904594421
+Edy,"-1,2356284","116,8135661",Klinik Perjalanan,Edy adalah klinik perjalanan yang menyediakan layanan kesehatan dan konsultasi bagi pelaku perjalanan di Balikpapan.,"Edy adalah perusahaan yang berkekonomi kaya dengan memainkan peran penting dalam permainan lalu walaupun berada di sekitar koordinat -1.235628, 116.813566.",0.6595509052276611,0.7229083776473999,0.6897777915000916
+JEMBATAN CINTA KAMPUNG BARU TENGAH,"-1,2359911","116,812912",Asosiasi Teknisi Pelabuhan dan Kanal Jalan,"JEMBATAN CINTA KAMPUNG BARU TENGAH merupakan ikon komunitas lokal dan jalur penghubung utama di kawasan Kampung Baru Tengah, Balikpapan.","JEMBATAN CINTA KAMPUNG BARU TENGAH is a unique tentatively sold event from an association that specializes in furniture and technology channels on nearby roads. With a variety of furniture items available, this event could attract both local and international buyers looking for quality products.",0.7431184649467468,0.7868862748146057,0.7643763422966003
+RedDoorz Plus near Sepinggan Airport 3,"-1,266491","116,8820315",Kategori tidak ditemukan,"RedDoorz Plus near Sepinggan Airport 3 adalah penginapan yang menawarkan fasilitas nyaman bagi wisatawan dan pelancong di sekitar Bandara Sepinggan, Balikpapan.","Based on your criteria:
+
+1. **Location**: The provided location (-1.266491°, 116.882031) does not correspond to a location near Sepinggan Airport 3. Sepinggan Airport is located in the Philippines, specifically near Palawan, and its coordinates are different.
+
+2. **Category**: The deskripsi accurately reflects the category of ""Toko Furnitur,"" which indicates a shop that sells furniture.
+
+3. **Location**: The location Jalan Sudirman, Pekanbaru, Riau aligns with your criteria in terms of street name.
+
+### Final Deskripsi:
+**nama=TOKO MEGA JAYA | kategori=Toko Furnitur | lokasi=Jalan Sudirman, Pekanbaru, Riau**
+
+TOKO MEGA JAYA adalah toko furnitur di Jalan Sudirman, Pekanbaru, Riau. Terdapat rute-rute perabot rumah tangga yang sesuai dengan kebutuhan harian.",0.5607569217681885,0.6761712431907654,0.6130795478820801
+GUEST HOUSE BARKAH,"-1,2665366","116,882083",Kategori tidak ditemukan,GUEST HOUSE BARKAH merupakan penginapan sederhana yang menyediakan kamar bersih dan fasilitas dasar bagi tamu di Balikpapan.,"GUEST HOUSE BARKAH is a unique guesthouse located near -1.266537° latitude and 116.882083° longitude in Indonesia, specifically in the Malacca Peninsula region. This spot is special because it offers an intimate setting for guests to relax and experience local culture. It is situated in a prime location, making it easy access to various attractions and cultural activities.",0.6514230966567993,0.7664194107055664,0.7042577862739563
+POSBAKUMADIN BALIKPAPAN,"-1,2651597","116,8819351",Pengacara,POSBAKUMADIN BALIKPAPAN adalah lembaga bantuan hukum yang memberikan layanan konsultasi dan pendampingan hukum bagi masyarakat di Balikpapan.,"Pos巴木旺 adalah toka furnitur yang terdapat di sekitar koordinat -1.265160, 116.881935. Kategori ""Pengacara"" menunjukkan bahwa toka ini digunakan untuk presentasi atau diskusi.",0.6232346892356873,0.6400719285011292,0.6315410733222961
+TrueMoney Indonesia,"-1,2642403","116,8818643",Layanan Transfer Uang,TrueMoney Indonesia adalah layanan transfer uang yang menyediakan pengiriman dan penerimaan dana secara cepat dan aman di Balikpapan.,"Nama = True Money Indonesia  
+Layanan Transfer Uang di sekitar koordinat -1.264240, 116.881864 adalah service yang memungkinkan transfer uang antara bank dan bank lainnya. Dari situsaya yang diberikan, kita mendapatkan fitur-fitur seperti transferring money, transaksi akun ke kualitas, dan sebagainya.",0.650702714920044,0.7348654270172119,0.6902279257774353
+Pondok Karya Agung Blok BAA 57,"-1,2660706","116,8822283",Rumah Kaca,Pondok Karya Agung Blok BAA 57 merupakan rumah kaca yang digunakan untuk kegiatan pertanian atau budidaya tanaman di Balikpapan.,"Pondok Karya Agung Blok BAA 57 adalah pondok kary a yang berisi buah bukaan dan manfaat. Pada blok tersebut terdapat bukaan-bukaan yang ditemukan di sekitar coordinate -1.266071, 116.882228, yang biasanya berada di sekitar Jalan Sudirman, Pekanbaru, Riau. Kary a Agung tersebut terkenal sebagai bukaan-bukaan yang menelusugunakan untuk beliau kebanyakan manfaat seperti beli beras, membeli alam, dan lainnya.",0.6764759421348572,0.7735452651977539,0.7217614650726318
+Kingdom garage,"-1,2663036","116,8825229",Bengkel Mobil,"Kingdom garage adalah bengkel mobil yang menyediakan jasa servis, perawatan, dan modifikasi kendaraan di Balikpapan.","""Kingo MEGA JAYA adalah garang kecil di sekitar koordinat -1.266304, 116.882523. Garage ini cocok untuk memaksa carahampir setiap hari.""",0.603565514087677,0.6612734794616699,0.6311030983924866
+Multitama Indonesia. PT,"-1,2664601","116,8819708",Toko Ban,Multitama Indonesia. PT merupakan toko ban yang menjual dan memasang berbagai jenis ban kendaraan di Balikpapan.,"Multitama Indonesia. PT adalah toko resmi yang berada di sekitar koordinat -1.266460, 116.881971. Ini adalah kantor resmi yang terdaftar di daerah Indonesia untuk resmi.",0.6966878771781921,0.7552546858787537,0.724790096282959
+Distributor Propolis,"-1,2651999","116,8820348",Layanan Distribusi,Distributor Propolis adalah layanan distribusi produk kesehatan berbasis propolis yang beroperasi di Balikpapan.,"Distributor Propolis adalah distribusi bahan kepeganggaan di sekitar koordinat -1.265200, 116.882035.",0.7234501838684082,0.8046711087226868,0.7619021534919739
+Gandrung Grafika,"-1,239135","116,8358122",Biro Iklan,"Gandrung Grafika merupakan biro iklan yang menyediakan jasa desain grafis, percetakan, dan promosi di Balikpapan.","The user has provided specific coordinates for a location near the South Pole: -1.239135 longitude and 116.835812 latitude. This places the location in an extreme polar region with unique climate characteristics. The request involves describing a business or activity associated with ""Gandrung Grafika,"" which could refer to a restaurant, bookstore, or similar entity.
+
+Given this context, it's unclear what ""Gandrung Grafika"" specifically denotes unless it's a type of restaurant offering unique cuisine. The term ""Biro Iklan"" suggests a focus on selling books or related items. While the coordinates are near the South Pole, there is no additional information to clarify the request further.
+
+In conclusion, without more context, it's challenging to provide a precise description of the location and its associated business activity.",0.5645143985748291,0.6555836796760559,0.6066503524780273
+Mr. Ting Wae,"-1,2385285","116,8354207",Ahli tembakau,Mr. Ting Wae adalah ahli tembakau yang bergerak dalam pengolahan dan perdagangan produk tembakau di Balikpapan.,"nama=TOKO MEGA JAYA | kategori=Toko Furnitur | lokasi=Jalan Sudirman, Pekanbaru, Riau",0.5969594717025757,0.6205700039863586,0.6085357666015625
+Kampung Toga Muara Rapak,"-1,2374123","116,8348568",Taman,Kampung Toga Muara Rapak adalah taman edukatif yang menampilkan berbagai tanaman obat keluarga di Balikpapan.,"Kampung Toga Muara Rapak adalah kawasan yang berada sekitar koordinat -1.237412, 116.834857. Dari penjelasan ini, tampaknya kampung ini berada di sekitar Riau kecamatan, di sebelah kanan Sumatera Utara.",0.6663459539413452,0.7547067999839783,0.7077792882919312
+RUMAH AL,"-1,2375654","116,8343172",Kantor Perusahaan,RUMAH AL merupakan kantor perusahaan yang digunakan sebagai pusat kegiatan administrasi dan operasional di Balikpapan.,"**RUMAH AL** adalah **kantor perusahaan** yang terletak sekitar koordinat -1.237565, 116.834317.",0.6441877484321594,0.7338443994522095,0.6860994100570679
+Gamon boba dan es jeruk peras,"-1,2381067","116,8341217",Kedai Sarapan & Makan Siang,Gamon boba dan es jeruk peras adalah kedai sarapan dan makan siang yang menyajikan minuman segar dan makanan ringan di Balikpapan.,"Gamon boba dan es jeruk peras adalah perusahaan pertanahan bongol yang disusun di sekitar koordinat -1.238107, 116.834122. Perusahaan ini menyusun tempat bermain bongol dan es makan di tempat tersebut dengan rutean tanpa kecelas.",0.7028390765190125,0.7769283652305603,0.7380289435386658
+DrW Skincare Balikpapan (resmi),"-1,2393148","116,8349538",Toko Kosmetik,DrW Skincare Balikpapan (resmi) adalah toko kosmetik resmi yang menjual produk perawatan kulit dan kecantikan di Balikpapan.,"**Toko Furnitur** adalah toko furnitur di sekitar koordinat -0.720816, 38.660763. Terdapat kumpulan bensin dan meksin yang dapat dipilih untuk kebutuhan harian atau keseimbangan.",0.6429393291473389,0.6849381923675537,0.6632745862007141
