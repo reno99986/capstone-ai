@@ -1,0 +1,662 @@
+{
+  "overall": {
+    "total_samples": 50,
+    "bertscore": {
+      "precision": 0.710344934463501,
+      "recall": 0.7315762913227082,
+      "f1": 0.7192965066432953
+    }
+  },
+  "per_sample": [
+    {
+      "id": 1,
+      "nama": "RKC SEAFOOD / RUMAH KEPITING CUMI BPD",
+      "query": "Jelaskan tentang RKC SEAFOOD / RUMAH KEPITING CUMI BPD",
+      "golden_truth": "RKC SEAFOOD / RUMAH KEPITING CUMI BPD adalah usaha yang berlokasi di Unnamed Road, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN,...",
+      "generated": "Geotags adalah platform yang memberikan perangkat penting untuk mengelompokkan data geografis ke dalam tampilan visual yang mudah dibaca. Di sana, kita dapat mempresentasikan informasi geografis denga...",
+      "bertscore": {
+        "precision": 0.6738851070404053,
+        "recall": 0.7711411714553833,
+        "f1": 0.7192402482032776
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 2,
+      "nama": "Mapsservis Kursi Sofa Panggilan",
+      "query": "Jelaskan tentang Mapsservis Kursi Sofa Panggilan",
+      "golden_truth": "Mapsservis Kursi Sofa Panggilan adalah usaha yang berlokasi di Perumahan bpd, Jl. Batu Butok Jl. Gn. Empat No.rmh . 175, RT.60, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76...",
+      "generated": "Mapsservis Kursi Sofa Panggilan adalah perusahaan yang beroperasi di kantor **Perumahan bpd**, Jl. Batu Butok Jl. Gn. Empir 4 No.rmh . 175, RT.60, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, ...",
+      "bertscore": {
+        "precision": 0.6159313917160034,
+        "recall": 0.7217369079589844,
+        "f1": 0.6646496653556824
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 3,
+      "nama": "Radja Tenda",
+      "query": "Jelaskan tentang Radja Tenda",
+      "golden_truth": "Radja Tenda adalah usaha yang berlokasi di QRGM+F5H, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Konteks data usaha:\nBerikut adalah data usaha yang relevan:\n\n\n1. Radja Tenda\n   Nama Komersial: Radja Tenda\n   Alamat: QRGM+F5H, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 7...",
+      "bertscore": {
+        "precision": 0.6112188100814819,
+        "recall": 0.7221013903617859,
+        "f1": 0.6620494723320007
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 4,
+      "nama": "DapurMomoy08",
+      "query": "Jelaskan tentang DapurMomoy08",
+      "golden_truth": "DapurMomoy08 adalah usaha yang berlokasi di Jl.Batu Butok, Jl. Gn. Empat masuk perumahan BPD No.99 RT.60, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125 , Kecamatan BALIKP...",
+      "generated": "DapurMomoy08 adalah perusahaan yang berada di Jl.Batu Butok, No.99 RT.60, Kecamatan Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125. Dari data yang diberikan, DapurMomoy08 adalah business ya...",
+      "bertscore": {
+        "precision": 0.8289777040481567,
+        "recall": 0.7726911306381226,
+        "f1": 0.7998453974723816
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 5,
+      "nama": "Perumahan bpd",
+      "query": "Jelaskan tentang Perumahan bpd",
+      "golden_truth": "Perumahan bpd adalah usaha yang berlokasi di QRFM+PP3 perumahan bpd, Jl. Batu Butok, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KAL...",
+      "generated": "Perumahan bpd terdapat beberapa perkenaan dengan alamat dan koordinat yang ditampilkan:\n\n- Perumahan bpd Nama Kategori Alamat Status Koordinat\n- Perumahan bpd P1: QRFM+PP3 perumahan bpd, Jl. Batu Buto...",
+      "bertscore": {
+        "precision": 0.6882645487785339,
+        "recall": 0.7327908873558044,
+        "f1": 0.7098301649093628
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 6,
+      "nama": "Nayla ol shop",
+      "query": "Jelaskan tentang Nayla ol shop",
+      "golden_truth": "Nayla ol shop adalah usaha yang berlokasi di QRGM+P6M, Jl. Batu Butok, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KALIMANTAN TIMUR ...",
+      "generated": "Nayla ol shop adalah negara yang berkecepatan jasa otokarpetan ringkas seperti makan. Positio kantor ayah: QRGM+P6M di Jl. Batu Butok No.13, Kec. Balikpapan Utara, Kode 612, Kabupaten Balikpapan, Kali...",
+      "bertscore": {
+        "precision": 0.6869162321090698,
+        "recall": 0.7312898635864258,
+        "f1": 0.7084088921546936
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 7,
+      "nama": "Makam Abah Muhammad Arsyad Bin Muhammad Yasin",
+      "query": "Jelaskan tentang Makam Abah Muhammad Arsyad Bin Muhammad Yasin",
+      "golden_truth": "Makam Abah Muhammad Arsyad Bin Muhammad Yasin adalah usaha yang berlokasi di QRGM+P6M, Jl. Batu Butok No.99, RT.60, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125 , Kecama...",
+      "generated": "Makam Abah Muhammad Arsyad Bin Muhammad Yasin adalah sebuah peragawa yang mungkin beroperasi dalam sekitarnya. Menurut data yang diberikan, ia terletak di RT. 99, Jl. Batu Butok No. 99, Muara Rapak, K...",
+      "bertscore": {
+        "precision": 0.710697591304779,
+        "recall": 0.7632090449333191,
+        "f1": 0.7360179424285889
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 8,
+      "nama": "Distributor Shannen",
+      "query": "Jelaskan tentang Distributor Shannen",
+      "golden_truth": "Distributor Shannen adalah usaha yang berlokasi di QRHM+62V, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Distributor Shannen adalah distribusi yang berada di kode 76125, Pglb, Balikpapan, Kalimantan Timur 76125. Menurut data disediakan, Distributor Shannen terlihat aktif, dengan status tertentu dalam daf...",
+      "bertscore": {
+        "precision": 0.728317141532898,
+        "recall": 0.7091763019561768,
+        "f1": 0.7186192870140076
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 9,
+      "nama": "PT. ITCI Kartika Utama",
+      "query": "Jelaskan tentang PT. ITCI Kartika Utama",
+      "golden_truth": "PT. ITCI Kartika Utama adalah usaha yang berlokasi di Jl. Letjen Suprapto No.11, Baru Ulu, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76133 , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIM...",
+      "generated": "PT. ITCI Kartika Utama adalah perusahaan yang berada di Kabupaten Balikpapan, provinsinya Kalimantan Timur. Dari data yang disediakan, PT. ITCI Kartika Utama berada pada konsol Jl. Letjen Suprapto No....",
+      "bertscore": {
+        "precision": 0.6555138826370239,
+        "recall": 0.7344826459884644,
+        "f1": 0.6927551031112671
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 10,
+      "nama": "CV. FELISHA SAMUDRA JAYA",
+      "query": "Jelaskan tentang CV. FELISHA SAMUDRA JAYA",
+      "golden_truth": "CV. FELISHA SAMUDRA JAYA adalah usaha yang berlokasi di Jl. Letjen Suprapto No.22, RT.013, Baru Ulu, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76131 , Kecamatan BALIKPAPAN BARAT, BALIKPA...",
+      "generated": "CV. FELISHA SAMUDRA JAYA adalah rumah makan yang berlokasi di Jl. Letjen Suprapto No.22, RT.013, Baru Ulu, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76131. Statusnya adalah aktif.",
+      "bertscore": {
+        "precision": 0.9413212537765503,
+        "recall": 0.86955326795578,
+        "f1": 0.9040151238441467
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 11,
+      "nama": "SNIPER CI IN CI (GUNSHOP 88)",
+      "query": "Jelaskan tentang SNIPER CI IN CI (GUNSHOP 88)",
+      "golden_truth": "SNIPER CI IN CI (GUNSHOP 88) adalah usaha yang berlokasi di RX6V+QMV, Lamaru, Kec. Balikpapan Tim., Kota Balikpapan, Kalimantan Timur 76118 , Kecamatan BALIKPAPAN TIMUR, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "SNIPER CI IN CI (GUNSHOP 88) adalah perusahaan yang berada di Kec. Balikpapan Tim., Kota Balikpapan, Kalimantan Timur 76118. Perusahaan tersebut terkait dengan Kabupaten Balikpapan dan diizinkan untuk...",
+      "bertscore": {
+        "precision": 0.7161135673522949,
+        "recall": 0.7816687822341919,
+        "f1": 0.7474565505981445
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 12,
+      "nama": "rentalmobilbpp354",
+      "query": "Jelaskan tentang rentalmobilbpp354",
+      "golden_truth": "rentalmobilbpp354 adalah usaha yang berlokasi di PRJW+3XJ, Klandasan Ilir, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN KOTA, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Rentalmobilbpp354 adalah rumah makan yang berlokasi di Jl. Letjen ZA Maulani Komplek Pesona Alam Residence, Jl. Perum BDS 2 No.4 Blok L, Gn. Bahagia, Kec. Balikpapanota, Kota Balikpapan, Kalimantan Ti...",
+      "bertscore": {
+        "precision": 0.7446458339691162,
+        "recall": 0.7460734248161316,
+        "f1": 0.745358943939209
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 13,
+      "nama": "Mie Pedas Rempah / Mie Dower 62",
+      "query": "Jelaskan tentang Mie Pedas Rempah / Mie Dower 62",
+      "golden_truth": "Mie Pedas Rempah / Mie Dower 62 adalah usaha yang berlokasi di Jl. Mayjend Sutoyo Gg. Lestari No.90, RT.62, Klandasan Ilir, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76113 , Kecamatan BA...",
+      "generated": "**Jawaban Pesegeng:**\n\n\"Terima kasih atas pertanyaannya! Saya dengan senang hati menjelaskan bahwa berdasarkan data terkini, semua perusahaan yang disajikan di atas adalah aktif di Balikpapan. Kita me...",
+      "bertscore": {
+        "precision": 0.6023260951042175,
+        "recall": 0.7221523523330688,
+        "f1": 0.6568188667297363
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 14,
+      "nama": "Kos-Kosan/Kontrakan/Sewa Rumah",
+      "query": "Jelaskan tentang Kos-Kosan/Kontrakan/Sewa Rumah",
+      "golden_truth": "Kos-Kosan/Kontrakan/Sewa Rumah adalah usaha yang berlokasi di Jl. Mayjend Sutoyo, RT.62/RW.No 51, Klandasan Ilir, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76113 , Kecamatan BALIKPAPAN K...",
+      "generated": "Kos-Kosan/Kontrakan/Sewa Rumah adalah beberapa desima yang terletak di kecamatan-kecamatan yang berbeda dalam kecamatan Balikpapan. Dari data yang diberikan:\n\n1. **RUMAH AL** berada di kecamatan Balik...",
+      "bertscore": {
+        "precision": 0.6573875546455383,
+        "recall": 0.6672523021697998,
+        "f1": 0.6622832417488098
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 15,
+      "nama": "Garasi 2 Tak ( house of boker )",
+      "query": "Jelaskan tentang Garasi 2 Tak ( house of boker )",
+      "golden_truth": "Garasi 2 Tak ( house of boker ) adalah usaha yang berlokasi di PRJW+3XJ, Klandasan Ilir, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN KOTA, BALIKPAPAN, KALIMANT...",
+      "generated": "Terima kasih telah memilih aplikasi Geotags! Berikut adalah informasi yang relevan tentang Garasi 2 Tak ( house of boker ). Garasi 2 Tak adalah tempat parkir yang berada di Jl. PRJW+3XJ, Klandasan Ili...",
+      "bertscore": {
+        "precision": 0.7440071702003479,
+        "recall": 0.7996307015419006,
+        "f1": 0.7708167433738708
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 16,
+      "nama": "KOTAKAN AJA",
+      "query": "Jelaskan tentang KOTAKAN AJA",
+      "golden_truth": "KOTAKAN AJA adalah usaha yang berlokasi di JL.MAY JEND SUTOYO GN.MALANG Gg. Lestari No.RT.62 NO.90, Klandasan Ilir, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76113 , Kecamatan BALIKPAPAN...",
+      "generated": "Kotak Anya adalah seseorang yang terletak di Kec. Balikpapan Tengah, dan merasalnya adalah perusahaan **Surya Bakti** yang berada di Jl. Ahmad Yani No. 24, RT.11, Karang Rejo, kecamatan Balikpapan Ten...",
+      "bertscore": {
+        "precision": 0.7534269690513611,
+        "recall": 0.6944971084594727,
+        "f1": 0.7227627635002136
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 17,
+      "nama": "Surya Bakti",
+      "query": "Jelaskan tentang Surya Bakti",
+      "golden_truth": "Surya Bakti adalah usaha yang berlokasi di Jl. Ahmad Yani No.24, RT.11, Karang Rejo, Kec. Balikpapan Tengah, Kota Balikpapan, Kalimantan Timur 76113 , Kecamatan BALIKPAPAN TENGAH, BALIKPAPAN, KALIMANT...",
+      "generated": "[Surya Bakti] adalah rumah makan di Jl. Ahmad Yani No.24, RT.11, Karang Rejo, Kec. Balikpapan Tengah, Kota Balikpapan, Kalimantan Timur 76113 dengan status aktif dan memiliki statistik tertentu.",
+      "bertscore": {
+        "precision": 0.9058138728141785,
+        "recall": 0.8000995516777039,
+        "f1": 0.8496811985969543
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 18,
+      "nama": "Panca Jaya Motor. UD",
+      "query": "Jelaskan tentang Panca Jaya Motor. UD",
+      "golden_truth": "Panca Jaya Motor. UD adalah usaha yang berlokasi di JL. Jend. A. Yani, Rt. 11 No.24, Balikpapan, Karang Rejo, Balikpapan Tengah, Balikpapan City, East Kalimantan 76113 , Kecamatan BALIKPAPAN TENGAH, B...",
+      "generated": "[Panca Jaya Motor. UD adalah suatu perusahaan yang menyediakan jasa motor, dengan kilometer menangnya sebanyak 24.368 km. Selain itu, pertambakan busana lainnya seperti KOTAKAN AJA dan Pondok Karya Ag...",
+      "bertscore": {
+        "precision": 0.6191779375076294,
+        "recall": 0.642348051071167,
+        "f1": 0.63055020570755
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 19,
+      "nama": "Kelompok Bermain Darul Ihsan",
+      "query": "Jelaskan tentang Kelompok Bermain Darul Ihsan",
+      "golden_truth": "Kelompok Bermain Darul Ihsan adalah usaha yang berlokasi di Jl. P. Antasari No.76123, RT.01, Karang Rejo, Kec. Balikpapan Tengah, Kota Balikpapan, Kalimantan Timur 76113 , Kecamatan BALIKPAPAN TENGAH,...",
+      "generated": "[Nama Usaha] adalah [deskripsi singkat]\n\nBerikut adalah informasi yang relevan:\n- Nama: PT. ITCI Kartika Utama\n  - Status: Aktif\n  - Alamat: Jl. Letjen Suprapto No.11, Baru Ulu, Kec. Balikpapan Bar., ...",
+      "bertscore": {
+        "precision": 0.6629900932312012,
+        "recall": 0.7355254292488098,
+        "f1": 0.6973767280578613
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 20,
+      "nama": "PT. GLOBAL ABADI SEJAHTERA",
+      "query": "Jelaskan tentang PT. GLOBAL ABADI SEJAHTERA",
+      "golden_truth": "PT. GLOBAL ABADI SEJAHTERA adalah usaha yang berlokasi di PRXP+8XC, Gg. Rambutan, Karang Rejo, Kec. Balikpapan Tengah, Kota Balikpapan, Kalimantan Timur 76113 , Kecamatan BALIKPAPAN TENGAH, BALIKPAPAN...",
+      "generated": "PT. GLOBAL ABadi SEJAHTERA adalah sebuah firmasama yang memiliki alamat tertentu di Bulan Tengah, Kabupaten Balikpapan, dan status aktif. Dengan informasi ini, saya menyusun deskripsi bahwa PT. GLOBAL...",
+      "bertscore": {
+        "precision": 0.8261748552322388,
+        "recall": 0.8212085962295532,
+        "f1": 0.8236842751502991
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 21,
+      "nama": "PT. Kinibalu Jaya Raya",
+      "query": "Jelaskan tentang PT. Kinibalu Jaya Raya",
+      "golden_truth": "PT. Kinibalu Jaya Raya adalah usaha yang berlokasi di Jl. Ahmad Yani No.43, RT.19, Karang Rejo, Kec. Balikpapan Tengah, Kota Balikpapan, Kalimantan Timur 76124 , Kecamatan BALIKPAPAN TENGAH, BALIKPAPA...",
+      "generated": "PT. Kinibalu Jaya Raya adalah PT khusus ber operating di Kec. Balikpapan Tengah, Kabupaten Karang Rejo,provinsia Kalimantan Timur. Dari data yang diberikan, ini adalah satu PT khusus yang terdaftar da...",
+      "bertscore": {
+        "precision": 0.7728779911994934,
+        "recall": 0.7164042592048645,
+        "f1": 0.7435703277587891
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 22,
+      "nama": "kios 45",
+      "query": "Jelaskan tentang kios 45",
+      "golden_truth": "kios 45 adalah usaha yang berlokasi di QR77+H9Q, Gg. Family, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "[Name] adalah kios 45 yang berada di Jl. QR77+H9Q, Gg. Family, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur. Status: Aktif.\n\nBerikan jawaban yang informatif berdasarkan data di...",
+      "bertscore": {
+        "precision": 0.8253738284111023,
+        "recall": 0.787921130657196,
+        "f1": 0.8062127232551575
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 23,
+      "nama": "Khanza cake & cookies",
+      "query": "Jelaskan tentang Khanza cake & cookies",
+      "golden_truth": "Khanza cake & cookies adalah usaha yang berlokasi di Jl. 21 Januari No.rt.03, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76132 , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIM...",
+      "generated": "Khanza cake & cookies adalah **Aktif** di daerah Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76132.  \n\nAlamatnya adalah Jl. 21 Januari No.rt.03, Baru Tengah, Kec. Balikpapan B...",
+      "bertscore": {
+        "precision": 0.7396835088729858,
+        "recall": 0.7284036874771118,
+        "f1": 0.7340002655982971
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 24,
+      "nama": "Bengkel Las Biru",
+      "query": "Jelaskan tentang Bengkel Las Biru",
+      "golden_truth": "Bengkel Las Biru adalah usaha yang berlokasi di Jl. 21 Januari, RT.6/RW.no 1, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76132 , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIM...",
+      "generated": "**Bengkel Las Biru** adalah perusahaan yang terdaftar dengan address **Jl. 21 Januari, RT.6/RW.no 1, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76132**, dengan status \"Aktif....",
+      "bertscore": {
+        "precision": 0.7855193018913269,
+        "recall": 0.7931533455848694,
+        "f1": 0.7893179059028625
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 25,
+      "nama": "Driver",
+      "query": "Jelaskan tentang Driver",
+      "golden_truth": "Driver adalah usaha yang berlokasi di PVPJ+RJX Pondok karya agung, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN SELATAN, BALIKPAPAN, KALIMA...",
+      "generated": "[Driver] adalah seorang pelamar yang berada di posisi kantor pondok Agung Blok BAA 57 di Bulakanking, Kabupaten Balikpapan, Kabupaten Timur, Desa Banu, Kec. Balikpapan Tengah, Jl. P. Antasari No. 7612...",
+      "bertscore": {
+        "precision": 0.6360458731651306,
+        "recall": 0.6752457022666931,
+        "f1": 0.6550598740577698
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 26,
+      "nama": "Cahaya Harapan Community School",
+      "query": "Jelaskan tentang Cahaya Harapan Community School",
+      "golden_truth": "Cahaya Harapan Community School adalah usaha yang berlokasi di komplek Amsterdam U2 21, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN SELATA...",
+      "generated": "Jelaskan tentang PT. ITCI Kartika Utama",
+      "bertscore": {
+        "precision": 0.6758654117584229,
+        "recall": 0.5701167583465576,
+        "f1": 0.6185035109519958
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 27,
+      "nama": "Balikpapan Agent Property",
+      "query": "Jelaskan tentang Balikpapan Agent Property",
+      "golden_truth": "Balikpapan Agent Property adalah usaha yang berlokasi di Jl Letjen ZA Maulani Komplek Pesona Alam Residence, Jl. Perum BDS 2 No.4 Blok L, Gn. Bahagia, Kec.Balikpapan Selatan, Kota Balikpapan, Kalimant...",
+      "generated": "**Jelaskan tentang Balikpapan Agent Property**\n\nBalikpapan Agent Property adalah sebuah businesses yang berfungsi untuk menawat esai dan bahan kebanyakan. Kebagian ini terletak di kecamatan Balikpapan...",
+      "bertscore": {
+        "precision": 0.6344289183616638,
+        "recall": 0.7239696383476257,
+        "f1": 0.6762481927871704
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 28,
+      "nama": "Ekasolle Cakery",
+      "query": "Jelaskan tentang Ekasolle Cakery",
+      "golden_truth": "Ekasolle Cakery adalah usaha yang berlokasi di Komplek Pesona Alam Residence Blok F No. 13, Sungai Nangka, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN ...",
+      "generated": "Berdasarkan data yang diberikan:\n\nEkasolle Cakery adalah rumah makan berlocaton di Jl. 21 Januari No.rt.03, Baru Tengah, Kecamatan Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76132. Menurut dat...",
+      "bertscore": {
+        "precision": 0.7077827453613281,
+        "recall": 0.7113195657730103,
+        "f1": 0.7095467448234558
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 29,
+      "nama": "HOMEIDE.PR [MAHAR & SESERAHAN]",
+      "query": "Jelaskan tentang HOMEIDE.PR [MAHAR & SESERAHAN]",
+      "golden_truth": "HOMEIDE.PR [MAHAR & SESERAHAN] adalah usaha yang berlokasi di Perumahan pesona alam residence blok.G no.4 ( masuk gapura, Jl. Perum BDS 2, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, K...",
+      "generated": "Thank you for providing the data and your query. Based on the data given:\n\n- HOMEIDE(PR) MAHAR & SESERAHAN is not listed in the dataset provided. \n\nHere are the details of each company included:\n\n1. *...",
+      "bertscore": {
+        "precision": 0.650275707244873,
+        "recall": 0.7308059930801392,
+        "f1": 0.6881930232048035
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 30,
+      "nama": "Pesona Alam Residence",
+      "query": "Jelaskan tentang Pesona Alam Residence",
+      "golden_truth": "Pesona Alam Residence adalah usaha yang berlokasi di Ruko, Jl Manunggal, Jl. Perum BDS 2 Kelurahan Sungai Nangka No.1 Blok J, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Tim...",
+      "generated": "Pesona Alam Residence adalah rumah makan yang berada di Kecamatan Balikpapan Selatan, Kabupaten Balikpapan,provinsi Kalimantan Timur 76115. Dari data yang diberikan, Pesona Alam Residence merupakan ru...",
+      "bertscore": {
+        "precision": 0.7064210772514343,
+        "recall": 0.8032326102256775,
+        "f1": 0.7517226338386536
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 31,
+      "nama": "Ahmadstore",
+      "query": "Jelaskan tentang Ahmadstore",
+      "golden_truth": "Ahmadstore adalah usaha yang berlokasi di Jl. 21 Januari No.rt 48 no 62, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76116 , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIMANTAN...",
+      "generated": "[Nama Usaha] adalah [deskripsi singkat]",
+      "bertscore": {
+        "precision": 0.6007508039474487,
+        "recall": 0.5198523998260498,
+        "f1": 0.5573815107345581
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 32,
+      "nama": "export ikan",
+      "query": "Jelaskan tentang export ikan",
+      "golden_truth": "export ikan adalah usaha yang berlokasi di jl.21 januar i rt.06 no.15 gg Family Kel , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Konteks data usaha:\n1. export ikan\n   Nama Komersial: export ikan\n   Alamat: jl.21 januar i rt.06 no.15 gg Family Kel\n   Status: aktif\n   Koordinat: -1,235292, 116,8138362\n\n2. KOTAKAN AJA\n   Nama Kome...",
+      "bertscore": {
+        "precision": 0.6223958730697632,
+        "recall": 0.7257624268531799,
+        "f1": 0.6701164245605469
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 33,
+      "nama": "Robinson",
+      "query": "Jelaskan tentang Robinson",
+      "golden_truth": "Robinson adalah usaha yang berlokasi di Gg. Family, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Kebutipkan data Robinson tidak terdapat dalam database. Jadi, berikut adalah jawaban yang sesuai:\n\n**Robinson (Jelaskan tentang Robinson)**\n\nTerima kasih atas pertanyaannya! Saya dengan senang hati me...",
+      "bertscore": {
+        "precision": 0.5982761979103088,
+        "recall": 0.7209151387214661,
+        "f1": 0.6538950800895691
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 34,
+      "nama": "Gudang Baru Awtwo",
+      "query": "Jelaskan tentang Gudang Baru Awtwo",
+      "golden_truth": "Gudang Baru Awtwo adalah usaha yang berlokasi di QR77+J53, Jl. 21 Januari Gg. Family, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KAL...",
+      "generated": "Gudang Baru Awtwo adalah gudang yang berada di kantor Baru Tengah, Kec. Balikpapan Bar., Jaman Timur. Gudang tersebut memiliki alamat yang ditentukan dengan koordinat yang lebih spesifik: -1,2359807, ...",
+      "bertscore": {
+        "precision": 0.6734055280685425,
+        "recall": 0.6500986814498901,
+        "f1": 0.6615468859672546
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 35,
+      "nama": "Edy",
+      "query": "Jelaskan tentang Edy",
+      "golden_truth": "Edy adalah usaha yang berlokasi di Jl. 21 Januari, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur 76132 , Kecamatan BALIKPAPAN BARAT, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Jelaskan tentang Edy\n\nTerima kasih telah memilih aplikasi Geotags! Berikut adalah informasi yang relevan tentang Edy:\n\nEdy adalah perusahaan yang menawakan penjualan kewakatan ekonomi di Kabupaten Bal...",
+      "bertscore": {
+        "precision": 0.6027413606643677,
+        "recall": 0.623511552810669,
+        "f1": 0.6129505634307861
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 36,
+      "nama": "JEMBATAN CINTA KAMPUNG BARU TENGAH",
+      "query": "Jelaskan tentang JEMBATAN CINTA KAMPUNG BARU TENGAH",
+      "golden_truth": "JEMBATAN CINTA KAMPUNG BARU TENGAH adalah usaha yang berlokasi di QR77+J53, Jl. 21 Januari Gg. Family, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN BARAT...",
+      "generated": "\"JEMBATAN CINTA KAMPUNG BARU TENGAH adalah seorang perbelaiman budaya di Balikpapan Bar. Dalam alamatnya berada di QR77+J53, Jl. 21 Januari Gg. Family, Baru Tengah, Kec. Balikpapan Bar., Kota Balikpap...",
+      "bertscore": {
+        "precision": 0.8603044748306274,
+        "recall": 0.8438307642936707,
+        "f1": 0.8519880175590515
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 37,
+      "nama": "RedDoorz Plus near Sepinggan Airport 3",
+      "query": "Jelaskan tentang RedDoorz Plus near Sepinggan Airport 3",
+      "golden_truth": "RedDoorz Plus near Sepinggan Airport 3 adalah usaha yang berlokasi di Jl. Marsma R. Iswahyudi, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN...",
+      "generated": "Red Doorz Plus near Sepinggan Airport 3 operates based in Kec. Balikpapan, within the city of Balikpapan, with its address at Jl. Marsma R. Iswahyudi, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota B...",
+      "bertscore": {
+        "precision": 0.8196752071380615,
+        "recall": 0.7776472568511963,
+        "f1": 0.7981082797050476
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 38,
+      "nama": "GUEST HOUSE BARKAH",
+      "query": "Jelaskan tentang GUEST HOUSE BARKAH",
+      "golden_truth": "GUEST HOUSE BARKAH adalah usaha yang berlokasi di Gunung Bahagia Kecamatan Balikpapan Selatan, Kelurahan, Gn. Bahagia, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPA...",
+      "generated": "Gusti GHOURE BARKAH adalah rumah makan yang terletak di Jl. Gunung Bahagia No.123, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114. Status: Aktif.",
+      "bertscore": {
+        "precision": 0.8470928072929382,
+        "recall": 0.8003338575363159,
+        "f1": 0.823049783706665
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 39,
+      "nama": "POSBAKUMADIN BALIKPAPAN",
+      "query": "Jelaskan tentang POSBAKUMADIN BALIKPAPAN",
+      "golden_truth": "POSBAKUMADIN BALIKPAPAN adalah usaha yang berlokasi di Jalan Marsma Iswahyudi, Perumahan Pondok Karya Agung Blok BAA No.48, Gn. Bahagia, Sel., Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapa...",
+      "generated": "Posba Kumpa Danlin adalah tempat perbanahan yang terletak di kodes Posba Kumpa Danlin: [-1,2651597, 116,8819351]. Dalam geotags, posisi ini dapat digunakan untuk mencari place berdasarkan latitude dan...",
+      "bertscore": {
+        "precision": 0.6071804165840149,
+        "recall": 0.5707656145095825,
+        "f1": 0.5884101390838623
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 40,
+      "nama": "TrueMoney Indonesia",
+      "query": "Jelaskan tentang TrueMoney Indonesia",
+      "golden_truth": "TrueMoney Indonesia adalah usaha yang berlokasi di Pondok Karya Agung No. B1-24, Gunung Bahagia, Balikpapan Selatan, Balikpapan City, East Kalimantan 76114 , Kecamatan BALIKPAPAN SELATAN, BALIKPAPAN, ...",
+      "generated": "**Penjelasan tentang TrueMoney Indonesia**\n\n1. **Nama dan Kategori**:  \n   - Nama: TrueMoney Indonesia  \n   - Kategori: Pria / Pria PT  \n\n2. **Alamat**:\n   - Jl. Pondok Karya Agung No. B1-24, Gunung B...",
+      "bertscore": {
+        "precision": 0.6013579368591309,
+        "recall": 0.7275794744491577,
+        "f1": 0.6584745049476624
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 41,
+      "nama": "Pondok Karya Agung Blok BAA 57",
+      "query": "Jelaskan tentang Pondok Karya Agung Blok BAA 57",
+      "golden_truth": "Pondok Karya Agung Blok BAA 57 adalah usaha yang berlokasi di PVMJ+HVH, Unnamed Road, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76115 , Kecamatan BALIKPAPAN SELATAN,...",
+      "generated": "Pondok Karya Agung Blok BAA 57 adalah suatu polder yang terletak di Jl. Unnamed Road, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76115. Perkenaan pondok tersebut adal...",
+      "bertscore": {
+        "precision": 0.7535415291786194,
+        "recall": 0.7709282040596008,
+        "f1": 0.7621357440948486
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 42,
+      "nama": "Kingdom garage",
+      "query": "Jelaskan tentang Kingdom garage",
+      "golden_truth": "Kingdom garage adalah usaha yang berlokasi di PVPJ+6GR, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN SELATAN, BALIKPAPAN, KALIMANTAN TIMUR ...",
+      "generated": "**Contoh Jawaban BAIK (BUTUK):**  \n\n**Terima kasih atas pertanyaannya! Saya dengan senang hati menjelaskan bahwa berdasarkan data terkini...**\n\n**[Nama Usaha] adalah rumah makan di khususnya, tetapi t...",
+      "bertscore": {
+        "precision": 0.5771678686141968,
+        "recall": 0.665857195854187,
+        "f1": 0.6183485388755798
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 43,
+      "nama": "Multitama Indonesia. PT",
+      "query": "Jelaskan tentang Multitama Indonesia. PT",
+      "golden_truth": "Multitama Indonesia. PT adalah usaha yang berlokasi di JL. Pondok Karya Agung No.72, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN SELATAN, ...",
+      "generated": "Multitama Indonesia is a PT with multiple subsidiaries located in the Balikpapan city, East Kalimantan Province. Based on the data provided:\n\n1. Multitama Indonesia (PT):\n   - **Nama Komersial**: Mult...",
+      "bertscore": {
+        "precision": 0.6308751702308655,
+        "recall": 0.7586973905563354,
+        "f1": 0.688907265663147
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 44,
+      "nama": "Distributor Propolis",
+      "query": "Jelaskan tentang Distributor Propolis",
+      "golden_truth": "Distributor Propolis adalah usaha yang berlokasi di Jl. Marsma R. Iswahyudi No.10, Gn. Bahagia, Kecamatan Balikpapan Selatan, Kota Balikpapan, Kalimantan Timur 76114 , Kecamatan BALIKPAPAN SELATAN, BA...",
+      "generated": "Terima kasih atas pertanyaannya! Saya dengan senang hati menjelaskan bahwa berdasarkan data terkini, Distributor Propolis adalah pabang kelingking yang terletak di Jl. Marsma R. Iswahyudi No.10, Gn. B...",
+      "bertscore": {
+        "precision": 0.8022016286849976,
+        "recall": 0.7995308637619019,
+        "f1": 0.800864040851593
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 45,
+      "nama": "Gandrung Grafika",
+      "query": "Jelaskan tentang Gandrung Grafika",
+      "golden_truth": "Gandrung Grafika adalah usaha yang berlokasi di Jl. Inpres 2, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "Gadrung Grafika adalah kategori yang menunjukkan activity and business location di Balikpapan. Di berbagai kategori lain, seperti Jl.May Jend Sutoyo GN.Malang Gg., Klandasan Ilir, dan Karang Rejo, Gan...",
+      "bertscore": {
+        "precision": 0.705316960811615,
+        "recall": 0.7574758529663086,
+        "f1": 0.7304664850234985
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 46,
+      "nama": "Mr. Ting Wae",
+      "query": "Jelaskan tentang Mr. Ting Wae",
+      "golden_truth": "Mr. Ting Wae adalah usaha yang berlokasi di Jl. Klamono I No.04, RT.49, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76125 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KALIMANTAN...",
+      "generated": "**Serupa dan lengkap:**\n\n- Jelaskan tentang Mr. Ting Wae\n- Nama komersial: Mr. Ting Wae\n- Alamat: Jl. Klamono I No.04, RT.49, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 7612...",
+      "bertscore": {
+        "precision": 0.7574436664581299,
+        "recall": 0.7853494882583618,
+        "f1": 0.7711442112922668
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 47,
+      "nama": "Kampung Toga Muara Rapak",
+      "query": "Jelaskan tentang Kampung Toga Muara Rapak",
+      "golden_truth": "Kampung Toga Muara Rapak adalah usaha yang berlokasi di QR7M+2WQ, Jl. Klamono, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76124 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KAL...",
+      "generated": "Kampung Toga Muara Rapak adalah perkebunan yang berada di Kecamatan Balikpapan Bar., Kabupaten Balikpapan, Java. Ini adalah tigaOrganasi yang terdaftar dengan alamat dan deskripsi detail seperti berik...",
+      "bertscore": {
+        "precision": 0.6988996267318726,
+        "recall": 0.7247412204742432,
+        "f1": 0.7115858793258667
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 48,
+      "nama": "RUMAH AL",
+      "query": "Jelaskan tentang RUMAH AL",
+      "golden_truth": "RUMAH AL adalah usaha yang berlokasi di QR6M+XPG, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, KALIMANTAN TIMUR .",
+      "generated": "RUMAH AL adalah rumah makan yang berlokasi di Jl. QR6M+XPG, Muara Rapak, Kec. Balikpapan Utara,Selatan. Status: Aktif.",
+      "bertscore": {
+        "precision": 0.8715169429779053,
+        "recall": 0.7976309657096863,
+        "f1": 0.8329386115074158
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 49,
+      "nama": "Gamon boba dan es jeruk peras",
+      "query": "Jelaskan tentang Gamon boba dan es jeruk peras",
+      "golden_truth": "Gamon boba dan es jeruk peras adalah usaha yang berlokasi di QR6M+QJ5, Jl. Klamono, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76124 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN...",
+      "generated": "Gamon boba dan es jeruk peras adalah seorang perusahaan yang berada di kecamatan Balikpapan, Kabupaten Banten, Indosudrala. Dari data yang diberikan, ini adalah nama perusahaan yang memiliki alamat da...",
+      "bertscore": {
+        "precision": 0.7283406257629395,
+        "recall": 0.7732416391372681,
+        "f1": 0.7501198053359985
+      },
+      "sources_count": 5
+    },
+    {
+      "id": 50,
+      "nama": "DrW Skincare Balikpapan (resmi)",
+      "query": "Jelaskan tentang DrW Skincare Balikpapan (resmi)",
+      "golden_truth": "DrW Skincare Balikpapan (resmi) adalah usaha yang berlokasi di Jl. Klamono No.63, Muara Rapak, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76124 , Kecamatan BALIKPAPAN UTARA, BALIKPAPAN, ...",
+      "generated": "DrW Skincare Balikpapan (resmi) adalah sebuah perusahaan serupa dengan perbankan lainnya di kawasan balikpapan. Namun, dalam konteks data yang diberikan, tidak ada informasi spesifik mengenai DrW Skin...",
+      "bertscore": {
+        "precision": 0.6513801217079163,
+        "recall": 0.6058629751205444,
+        "f1": 0.627797544002533
+      },
+      "sources_count": 5
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+	"info": {
+		"_postman_id": "geotags-chatbot-api",
+		"name": "Geotags Chatbot API",
+		"description": "API collection for testing Geotags RAG Chatbot Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Health Check",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/health",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"health"
+					]
+				},
+				"description": "Check if the service is running (no authentication required)"
+			},
+			"response": []
+		},
+		{
+			"name": "Root Endpoint",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						""
+					]
+				},
+				"description": "Get service information"
+			},
+			"response": []
+		},
+		{
+			"name": "Chat - Cari Warung Kopi",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"message\": \"Cari warung kopi di Balikpapan\",\n  \"top_k\": 5\n}"
+				},
+				"url": {
+					"raw": "{{base_url}}/api/chat",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"chat"
+					]
+				},
+				"description": "Chat dengan bot untuk mencari warung kopi"
+			},
+			"response": []
+		},
+		{
+			"name": "Chat - Cari Usaha Sembako",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"message\": \"Ada usaha sembako di mana?\",\n  \"top_k\": 3\n}"
+				},
+				"url": {
+					"raw": "{{base_url}}/api/chat",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"chat"
+					]
+				},
+				"description": "Chat dengan bot untuk mencari usaha sembako"
+			},
+			"response": []
+		},
+		{
+			"name": "Chat - Cari SPBU",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"message\": \"Cari SPBU atau pom bensin\",\n  \"top_k\": 5\n}"
+				},
+				"url": {
+					"raw": "{{base_url}}/api/chat",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"chat"
+					]
+				},
+				"description": "Chat dengan bot untuk mencari SPBU"
+			},
+			"response": []
+		},
+		{
+			"name": "Chat - Berapa Jumlah Usaha",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"message\": \"Berapa jumlah usaha yang aktif?\",\n  \"top_k\": 10\n}"
+				},
+				"url": {
+					"raw": "{{base_url}}/api/chat",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"chat"
+					]
+				},
+				"description": "Tanya jumlah usaha aktif"
+			},
+			"response": []
+		},
+		{
+			"name": "Chat - Dengan Conversation History",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"message\": \"Berapa alamat lengkapnya?\",\n  \"top_k\": 5,\n  \"conversation_history\": [\n    {\n      \"role\": \"user\",\n      \"content\": \"Cari warung kopi di Balikpapan\"\n    },\n    {\n      \"role\": \"assistant\",\n      \"content\": \"Saya menemukan Warung KPK Balikpapan\"\n    }\n  ]\n}"
+				},
+				"url": {
+					"raw": "{{base_url}}/api/chat",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"chat"
+					]
+				},
+				"description": "Chat dengan conversation history untuk context"
+			},
+			"response": []
+		},
+		{
+			"name": "Chat - Cari di Kecamatan Tertentu",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"message\": \"Usaha apa saja yang ada di Balikpapan Utara?\",\n  \"top_k\": 5\n}"
+				},
+				"url": {
+					"raw": "{{base_url}}/api/chat",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"chat"
+					]
+				},
+				"description": "Cari usaha berdasarkan lokasi kecamatan"
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Businesses",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{jwt_token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/businesses",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"businesses"
+					]
+				},
+				"description": "Get all businesses from database (requires authentication)"
+			},
+			"response": []
+		},
+		{
+			"name": "API Docs (Swagger)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/docs",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"docs"
+					]
+				},
+				"description": "Open interactive API documentation"
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:5000",
+			"type": "string"
+		},
+		{
+			"key": "jwt_token",
+			"value": "YOUR_JWT_TOKEN_HERE",
+			"type": "string"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+meta {
+  name: Chat - Cari di Kecamatan Tertentu
+  type: http
+  seq: 8
+}
+
+post {
+  url: {{base_url}}/api/chat
+  body: json
+  auth: bearer
+}
+
+headers {
+  Content-Type: application/json
+}
+
+auth:bearer {
+  token: {{jwt_token}}
+}
+
+body:json {
+  {
+    "message": "Usaha apa saja yang ada di Balikpapan Utara?",
+    "top_k": 5
+  }
+}
+
+settings {
+  encodeUrl: true
+}
+
+docs {
+  Cari usaha berdasarkan lokasi kecamatan
+}

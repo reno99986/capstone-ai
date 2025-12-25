@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  chatbot:
+    build: .
+    container_name: geotags-chatbot
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      - CHATBOT_MODEL=${CHATBOT_MODEL:-llama3.2}
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+    volumes:
+      - ./app:/app/app
+    restart: unless-stopped
+    networks:
+      - geotags-network
+
+networks:
+  geotags-network:
+    driver: bridge

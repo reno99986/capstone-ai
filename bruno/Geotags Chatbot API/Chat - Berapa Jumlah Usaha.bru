@@ -1,0 +1,34 @@
+meta {
+  name: Chat - Berapa Jumlah Usaha
+  type: http
+  seq: 6
+}
+
+post {
+  url: {{base_url}}/api/chat
+  body: json
+  auth: bearer
+}
+
+headers {
+  Content-Type: application/json
+}
+
+auth:bearer {
+  token: {{jwt_token}}
+}
+
+body:json {
+  {
+    "message": "Berapa jumlah usaha yang aktif?",
+    "top_k": 10
+  }
+}
+
+settings {
+  encodeUrl: true
+}
+
+docs {
+  Tanya jumlah usaha aktif
+}

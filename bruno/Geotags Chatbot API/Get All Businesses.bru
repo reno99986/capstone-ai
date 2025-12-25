@@ -1,0 +1,23 @@
+meta {
+  name: Get All Businesses
+  type: http
+  seq: 9
+}
+
+get {
+  url: {{base_url}}/api/businesses
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{jwt_token}}
+}
+
+settings {
+  encodeUrl: true
+}
+
+docs {
+  Get all businesses from database (requires authentication)
+}

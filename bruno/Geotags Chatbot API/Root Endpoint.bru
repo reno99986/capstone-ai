@@ -1,0 +1,19 @@
+meta {
+  name: Root Endpoint
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{base_url}}/
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}
+
+docs {
+  Get service information
+}

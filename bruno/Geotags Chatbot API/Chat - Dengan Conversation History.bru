@@ -1,0 +1,44 @@
+meta {
+  name: Chat - Dengan Conversation History
+  type: http
+  seq: 7
+}
+
+post {
+  url: {{base_url}}/api/chat
+  body: json
+  auth: bearer
+}
+
+headers {
+  Content-Type: application/json
+}
+
+auth:bearer {
+  token: {{jwt_token}}
+}
+
+body:json {
+  {
+    "message": "Berapa alamat lengkapnya?",
+    "top_k": 5,
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "Cari warung kopi di Balikpapan"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya menemukan Warung KPK Balikpapan"
+      }
+    ]
+  }
+}
+
+settings {
+  encodeUrl: true
+}
+
+docs {
+  Chat dengan conversation history untuk context
+}
